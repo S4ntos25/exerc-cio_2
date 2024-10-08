@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../exercicio"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercicio",
+		"liveServer.settings.port": 5501
+	}
+}
